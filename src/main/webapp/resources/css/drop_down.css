@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.drop_menu2 {
+	margin-top: 34px !important;
+	width: auto;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+	border: 2px solid var(--primary-color) !important;
+}
+
+.btn-icon-nav {
+	font-size: 14px;
+	margin-left: 8px;
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+:root {
+    --primary-color: #FFC0CB;
+}
+thead{
+    background-color: var(--primary-color);
+}
+tbody{
+    background-color: #fceaed;
+}
+tbody tr td img {   
+    height: 40px;
+    width: 40px;
+}
+tbody tr td div a {
+    font-size: 30px;
+    color: #f58497;
+}
+tbody tr td div a:last-child {
+    margin-left: 10px;
+}
+tbody tr td div a:hover {
+    color: rgb(35, 204, 103);
+}
+tbody tr td div a:last-child:hover {
+   color: red;
+}
